@@ -1,1 +1,2 @@
-const addTask = document.querySelector('.')
+const addTask = document.querySelector('.add');
+const list = document.querySelector('.todos');
