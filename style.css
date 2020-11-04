@@ -25,3 +25,7 @@ input[type=text]:focus {
   cursor: pointer;
   color: orange;
 }
+
+.filtered {
+  display : none !important;
+}
